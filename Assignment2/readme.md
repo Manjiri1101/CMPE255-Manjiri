@@ -30,8 +30,8 @@ ________________________________________________________________________________
 
 ## Part A: image data set 
 PLease check this [Colab Link](https://colab.research.google.com/drive/1KZO3VRB0Jpxf8Gv3mZ0iH3vgyl5aZCIm?authuser=1)
-Github link: https://github.com/Manjiri1101/CMPE255-Manjiri/blob/main/Assignment2/Assignment2_partA_cmpe255.ipynb
+[Github link](https://github.com/Manjiri1101/CMPE255-Manjiri/blob/main/Assignment2/Assignment2_partA_cmpe255.ipynb)
 
 ## Part B: tabular data set
 Please check this [collab link](https://colab.research.google.com/drive/13PR8taY4p67XNsnPJpW-ZOAX4nT33MCO?authuser=1)
-Github Link: https://github.com/Manjiri1101/CMPE255-Manjiri/blob/main/Assignment2/Assign2PartB_cmpe255.ipynb
+[Github Link](https://github.com/Manjiri1101/CMPE255-Manjiri/blob/main/Assignment2/Assign2PartB_cmpe255.ipynb)
