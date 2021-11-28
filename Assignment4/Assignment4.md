@@ -17,28 +17,28 @@
 
 [Hint1](https://colab.sandbox.google.com/github/SANTOSHMAHER/Machine-Learning-Algorithams/blob/master/K_Means_algorithm_using_Python_from_scratch_.ipynb)
 or [Hint2](https://colab.sandbox.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb)
-another interesting supervised kmeans colab if people like to do : https://developers.google.com/machine-learning/clustering/programming-exercise 
+another interesting supervised kmeans colab if people like to do : [Hint3](https://developers.google.com/machine-learning/clustering/programming-exercise 
 
-https://colab.sandbox.google.com/github/google/eng-edu/blob/main/ml/clustering/clustering-supervised-similarity.ipynb?utm_source=ss-clustering&utm_campaign=colab-external&utm_medium=referral&utm_content=clustering-supervised-similarity#scrollTo=eExms-TP8Hn6 
+https://colab.sandbox.google.com/github/google/eng-edu/blob/main/ml/clustering/clustering-supervised-similarity.ipynb?utm_source=ss-clustering&utm_campaign=colab-external&utm_medium=referral&utm_content=clustering-supervised-similarity#scrollTo=eExms-TP8Hn6)
  
 
 2.  Hierarchical clustering (not from scratch)
 
-hint : https://colab.sandbox.google.com/github/saskeli/data-analysis-with-python-summer-2019/blob/master/clustering.ipynb 
+[hint](https://colab.sandbox.google.com/github/saskeli/data-analysis-with-python-summer-2019/blob/master/clustering.ipynb)
 
 3.  Gaussian mixture models clustering (not from scratch)
 
  
 
-hint : https://colab.sandbox.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb 
+[hint](https://colab.sandbox.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb)
 
  
 
 4. DB Scan clustering (not from scratch) using pycaret library 
 
-Hint: https://pycaret.org/create-model/
+[Hint](https://pycaret.org/create-model/)
 
-https://towardsdatascience.com/clustering-made-easy-with-pycaret-656316c0b080 (Links to an external site.)
+[Hint2](https://towardsdatascience.com/clustering-made-easy-with-pycaret-656316c0b080)(Links to an external site.)
 
 http://www.pycaret.org/tutorials/html/CLU101.html
 
